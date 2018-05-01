@@ -1,2 +1,2 @@
-# functional-journey
-Functional programming journey
+# the-journey
+Web programming journey
